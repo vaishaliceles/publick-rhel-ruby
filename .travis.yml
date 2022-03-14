@@ -1,0 +1,6 @@
+os: RHEL
+dist: rhel8
+language: ruby
+arch: amd64
+script:
+    - ruby hello_world.rb
